@@ -5,6 +5,9 @@ We are ASK lab, and, as it stands for, we study authenticity and self-knowledge 
 [Google Scholar](https://scholar.google.com/citations?hl=ko&user=U1hHHH8AAAAJ)
 [Lab Website](https://www.askpsylab.com/)
 
+[![Button Icon]][https://scholar.google.com/citations?hl=ko&user=U1hHHH8AAAAJ]
+
+
 # Key Features
 
 ## True Self and Authenticity
